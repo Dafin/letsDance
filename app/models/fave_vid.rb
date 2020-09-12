@@ -1,0 +1,2 @@
+class FaveVid < ApplicationRecord
+end
